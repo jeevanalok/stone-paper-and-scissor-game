@@ -1,5 +1,6 @@
 # stone-paper-and-scissor-game
----------------------------------------------------------------|
+
+
 a simple terminal based as well as GUI based game using python |
 ---------------------------------------------------------------|
 
