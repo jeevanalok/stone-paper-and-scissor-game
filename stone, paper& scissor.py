@@ -1,5 +1,5 @@
 """
-simple pyhton program to play stone, paper and scissor
+simple python program to play stone, paper and scissor
 dt of completion-18 march 020
 """
 #importing random module
